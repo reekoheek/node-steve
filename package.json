@@ -1,5 +1,5 @@
 {
-  "name": "steve",
+  "name": "node-steve",
   "version": "0.0.1",
   "description": "Steve is jobs manager ",
   "main": "lib/index.js",
