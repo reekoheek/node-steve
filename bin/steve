@@ -1,0 +1,11 @@
+#!/usr/bin/env node --harmony
+
+var steve = require('../lib/index');
+
+var options = {
+  // port: 3000
+};
+
+var s = steve(options);
+
+s.listen();

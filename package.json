@@ -1,0 +1,21 @@
+{
+  "name": "steve",
+  "version": "0.0.1",
+  "description": "Steve is jobs manager ",
+  "main": "lib/index.js",
+  "bin": {
+    "steve": "./bin/steve"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesha <reekoheek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.2.0",
+    "co": "^4.6.0",
+    "mkdirp": "^0.5.1",
+    "node-uuid": "^1.4.3",
+    "optimist": "^0.6.1"
+  }
+}
