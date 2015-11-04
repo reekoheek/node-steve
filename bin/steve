@@ -3,7 +3,7 @@
 var steve = require('../lib/index');
 
 var options = {
-  // port: 3000
+  port: 3333
 };
 
 var s = steve(options);
